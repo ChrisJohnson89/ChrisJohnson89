@@ -1,32 +1,27 @@
-# Chris Johnson (ChrisJohnson89) — he/him
+# Chris Johnson (ChrisJohnson89)
 
-Support Engineer Team Lead @ JetRails.  
-I build automation so ops stays calm: fewer alerts, faster triage, better visibility.
+Linux Support Team Lead @ [JetRails](https://jetrails.com). I make production boring:
+fewer alerts, faster triage, and small sharp tools that do the dull parts correctly.
 
-**Focus:** AI automation • SRE/DevOps • Infra • Reliability • Monitoring/Incident hygiene
-
----
-
-## What I'm into right now
-- 🤖 **AI-driven ops automation** (daily briefs, voice workflows, smart summarization, “do the boring stuff” bots)
-- 🧰 **Infra tooling** (scripts, runbooks, dashboards, guardrails)
-- 🔍 **Reliability** (alert tuning, incident response, postmortems, “make it boring” ops)
-
----
-
-## Toolbelt (aka: things I actually ship with)
-- **Infra/DevOps:** Linux, Docker, shell scripting, CI/CD
-- **SRE:** observability, incident response, on-call ergonomics, toil reduction
-- **Automation/AI:** agent workflows, API integrations, web automation
-
----
+**Focus:** Linux · SRE and reliability · AI-driven ops automation · monitoring and incident hygiene
 
 ## Featured
-- ⭐ **openclaw-configs** — sanitized configs + notes for my automation stack
-- 📌 (more soon — I’m curating + modernizing old repos)
 
----
+- **[ComfyUI-NeuralBooru](https://github.com/ChrisJohnson89/ComfyUI-NeuralBooru)**: plain English to validated Danbooru tags via any local LLM. Zero dependencies, on the ComfyUI Registry.
+- **[Ferromon](https://github.com/ChrisJohnson89/Ferromon)**: fast Rust TUI system monitor. CPU, memory, disk, processes, services, logs.
+- **[Ferrolog](https://github.com/ChrisJohnson89/Ferrolog)**: Rust TUI log viewer with live search and severity filters.
+- **[cmkview](https://github.com/ChrisJohnson89/cmkview)**: native macOS incident dashboard for CheckMK.
+- **[ClawSentry](https://github.com/ChrisJohnson89/ClawSentry)**: local-first security and ops dashboard for OpenClaw.
+- **[Terminal Aquarium](https://github.com/ChrisJohnson89/terminal-aquarium-office-drama)**: ASCII fish with workplace drama. Deeply unnecessary.
 
-## Contact / links
-- GitHub: https://github.com/ChrisJohnson89
-- (add LinkedIn / site if you want)
+## Toolbelt
+
+- **Infra/DevOps:** Linux, Docker, shell scripting, CI/CD
+- **SRE:** observability, incident response, on-call ergonomics, toil reduction
+- **Automation/AI:** agent workflows, API integrations, local LLMs
+
+## Links
+
+- Site: https://chrisjohnson89.github.io
+- LinkedIn: https://www.linkedin.com/in/chrisjohnsonlink/
+- Email: cjengineer89@gmail.com
